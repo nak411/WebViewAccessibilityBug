@@ -14,8 +14,9 @@ Open up the project and turn on talk back.  The initial focus will be on `Title`
 
 `Swipe up then right` to open up the talk back context menu.  `Actions` will be present in the context menu as specified in the delegate.  Double tap to activate action to confirm that the custom action is present.
 
-<img width="200px" src="images/action_present.png"/>
-<img width="200px" src="images/custom_action.png"/>
+
+  <img width="200px" src="images/action_present.png"/>  <img width="200px" src="images/custom_action.png"/>
+
 
 Move the accessibility focus to web view by `right swiping` and bring up the context menu.  
 **BUG**: Notice that the web view does not have an actions item in context menu even though the custom accessibility delegate was set on it.
