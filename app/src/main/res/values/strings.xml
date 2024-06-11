@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">WebViewAccessibilityBug</string>
+    <string name="title">Title</string>
+    <string name="button">Footer Button</string>
 </resources>
