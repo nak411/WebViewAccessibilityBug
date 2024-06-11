@@ -18,11 +18,11 @@ Open up the project and turn on talk back.  The initial focus will be on `Title`
   <img width="200px" src="images/action_present.png"/>  <img width="200px" src="images/custom_action.png"/>
 
 
-Move the accessibility focus to web view by `right swiping` and bring up the context menu.  
+Move the accessibility focus to web view by `right swiping`. Bring up the context menu by `Swipe up then right`.  
 **BUG**: Notice that the web view does not have an actions item in context menu even though the custom accessibility delegate was set on it.
 
 <img width="200px" src="images/web_view_focus.png"/>  <img width="200px" src="images/webview_context_menu.png"/>
 
-Move the focus inside the web view by `right swiping` and bring up the context menu.  Notice that there is no custom actions present even thoug the custom delegate was set on the web view
+Move the focus inside the web view by `right swiping`. Bring up the context menu by `Swipe up then right`.  Notice that there is no custom actions present even thoug the custom delegate was set on the web view
 
 <img width="200px" src="images/webview_inner.png"/>  <img width="200px" src="images/web_view_inner_menu.png"/>
